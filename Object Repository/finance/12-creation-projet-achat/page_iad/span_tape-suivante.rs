@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_tape-suivante</name>
+   <tag></tag>
+   <elementGuidId>f214b861-5c90-43d5-b787-d11961fc9e0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>iad-my-iad-project-create-contact.ng-scope.ng-isolate-scope > iad-my-iad-project-create-step-buttons.ng-isolate-scope > div.myiad-project-create-step-buttons > div.text-right.ng-scope > button.btn.myiad-btn.myiad-ghost-btn > span.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='stepper1']/div[2]/div[2]/div[5]/div[2]/ui-view/iad-my-iad-project-create-contact/iad-my-iad-project-create-step-buttons/div/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Étape suivante</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;stepper1&quot;)/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane ng-scope active&quot;]/div[@class=&quot;animated fadeIn ng-scope iad-stepper-content&quot;]/ui-view[@class=&quot;ng-scope&quot;]/iad-my-iad-project-create-contact[@class=&quot;ng-scope ng-isolate-scope&quot;]/iad-my-iad-project-create-step-buttons[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;myiad-project-create-step-buttons&quot;]/div[@class=&quot;text-right ng-scope&quot;]/button[@class=&quot;btn myiad-btn myiad-ghost-btn&quot;]/span[@class=&quot;ng-scope&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='stepper1']/div[2]/div[2]/div[5]/div[2]/ui-view/iad-my-iad-project-create-contact/iad-my-iad-project-create-step-buttons/div/div[2]/button/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Étape précédente'])[4]/following::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Éditer'])[1]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pays'])[1]/preceding::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iad-my-iad-project-create-contact/iad-my-iad-project-create-step-buttons/div/div[2]/button/span</value>
+   </webElementXpaths>
+</WebElementEntity>

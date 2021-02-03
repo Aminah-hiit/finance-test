@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_sources_fa fa-plus</name>
+   <tag></tag>
+   <elementGuidId>7116d8c9-2517-44ec-a7ee-c6b8fd408b18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.myiad-contact-origins > iad-my-iad-add-remove.ng-isolate-scope > div.row.ng-scope > div.text-center.myiad-numeric-stepper > button.btn.btn-primary.btn-add > span.fa.fa-plus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordiongroup-664-5430-panel']/div/iad-my-iad-accordion-group-body/div/ng-transclude/div/iad-my-iad-contact-origins/div/iad-my-iad-add-remove/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordiongroup-664-5430-panel&quot;)/div[@class=&quot;panel-body&quot;]/iad-my-iad-accordion-group-body[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;myiad-accordion-group-body&quot;]/ng-transclude[1]/div[@class=&quot;ng-scope&quot;]/iad-my-iad-contact-origins[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;myiad-contact-origins&quot;]/iad-my-iad-add-remove[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;row ng-scope&quot;]/div[@class=&quot;text-center myiad-numeric-stepper&quot;]/button[@class=&quot;btn btn-primary btn-add&quot;]/span[@class=&quot;fa fa-plus&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordiongroup-664-5430-panel']/div/iad-my-iad-accordion-group-body/div/ng-transclude/div/iad-my-iad-contact-origins/div/iad-my-iad-add-remove/div/div/button/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/iad-my-iad-add-remove/div/div/button/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordiongroup-664-1404-panel']/div/iad-my-iad-accordion-group-body/div/ng-transclude/div/iad-my-iad-contact-origins/div/iad-my-iad-add-remove/div/div/button/span</value>
+   </webElementXpaths>
+</WebElementEntity>

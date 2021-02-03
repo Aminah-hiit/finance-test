@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ct-02-demande-paiement-prod-assujetti-tva-man</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06c402e5-1467-4d9e-b623-3ee27fb0937a</testCaseGuid>
+</TestCaseEntity>

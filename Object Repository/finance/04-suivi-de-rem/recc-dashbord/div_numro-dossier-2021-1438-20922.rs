@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_numro-dossier-2021-1438-20922</name>
+   <tag></tag>
+   <elementGuidId>30416f8e-06f5-44d0-9da5-07f031b4fa87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[1]/iad-root[1]/iad-content[1]/mat-sidenav-container[1]/mat-sidenav-content[1]/div[1]/iad-earnings-tracking-details-list[1]/div[1]/div[2]/div[1]/iad-earnings-tracking-list-item-accordion[1]/mat-accordion[1]/mat-expansion-panel[2]/mat-expansion-panel-header[1]/span[1]/mat-panel-title[1]/div[1]/div[1]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Numéro de dossier : 2021.1438 / 20922</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-expansion-panel-header-7&quot;)/span[@class=&quot;mat-content&quot;]/mat-panel-title[@class=&quot;mat-expansion-panel-header-title&quot;]/div[@class=&quot;iad-panel-title&quot;]/div[@class=&quot;iad-panel-title-block ng-star-inserted&quot;]/div[2]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-7']/span/mat-panel-title/div/div/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filleul'])[8]/following::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Détails'])[8]/preceding::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel[8]/mat-expansion-panel-header/span/mat-panel-title/div/div/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

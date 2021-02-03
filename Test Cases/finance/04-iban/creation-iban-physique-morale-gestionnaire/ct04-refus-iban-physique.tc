@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ct04-refus-iban-physique</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f735d893-b6c5-46fa-a50f-02dd96d82218</testCaseGuid>
+</TestCaseEntity>

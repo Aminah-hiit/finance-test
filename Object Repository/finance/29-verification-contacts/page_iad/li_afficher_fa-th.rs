@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_afficher_fa-th</name>
+   <tag></tag>
+   <elementGuidId>2d7127f1-d545-4310-939c-b4eef06749f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='iad-goto-top']/div/div[2]/iad-content-body/iad-agent-my-iad-contact/ui-view/iad-agent-my-iad-contact-list-page/div/div/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-th</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>$ctrl.showGridList()</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>[{ 'active': $ctrl.listMode === 'grid' }]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iad-goto-top&quot;)/div[@class=&quot;container-fluid&quot;]/div[2]/iad-content-body[@class=&quot;ng-scope&quot;]/iad-agent-my-iad-contact[@class=&quot;ng-scope ng-isolate-scope&quot;]/ui-view[@class=&quot;ng-scope&quot;]/iad-agent-my-iad-contact-list-page[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;myiad-list myiad-contact-list&quot;]/div[@class=&quot;row&quot;]/ul[@class=&quot;switch-button col-sm-3&quot;]/li[@class=&quot;fa fa-th&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='iad-goto-top']/div/div[2]/iad-content-body/iad-agent-my-iad-contact/ui-view/iad-agent-my-iad-contact-list-page/div/div/ul/li[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

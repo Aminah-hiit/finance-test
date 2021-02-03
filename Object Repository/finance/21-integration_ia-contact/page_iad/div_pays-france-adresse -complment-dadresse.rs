@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_pays-france-adresse -complment-dadresse</name>
+   <tag></tag>
+   <elementGuidId>015c7d21-3f9c-44e1-bb05-e3f82d416b54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordiongroup-628-6867-panel']/div/iad-my-iad-accordion-group-body/div/ng-transclude/div/iad-my-iad-contact-information-address-form/ng-form/iad-block[3]/section/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iad-block-content clearfix</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-transclude</name>
+      <type>Main</type>
+      <value>body</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pays   FRANCE   Adresse  Complément d'adresse </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordiongroup-628-6867-panel&quot;)/div[@class=&quot;panel-body&quot;]/iad-my-iad-accordion-group-body[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;myiad-accordion-group-body&quot;]/ng-transclude[1]/div[@class=&quot;ng-scope&quot;]/iad-my-iad-contact-information-address-form[@class=&quot;ng-scope ng-isolate-scope&quot;]/ng-form[@class=&quot;ng-valid-required ng-dirty ng-valid-mask ng-valid-parse ng-valid-phone ng-valid-email ng-valid ng-valid-pattern&quot;]/iad-block[@class=&quot;ng-isolate-scope&quot;]/section[@class=&quot;iad-block margin-top-20&quot;]/div[@class=&quot;iad-block-content clearfix&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordiongroup-628-6867-panel']/div/iad-my-iad-accordion-group-body/div/ng-transclude/div/iad-my-iad-contact-information-address-form/ng-form/iad-block[3]/section/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coordonnées postales'])[1]/following::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Envoyer la demande de consentement RGPD à l', &quot;'&quot;, 'adresse mail principale')])[1]/following::div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iad-block[3]/section/div</value>
+   </webElementXpaths>
+</WebElementEntity>

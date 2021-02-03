@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ct-02-paiement-cheque-encaissement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e53b39a8-089e-4bd7-93f4-e1e7115883a5</testCaseGuid>
+</TestCaseEntity>

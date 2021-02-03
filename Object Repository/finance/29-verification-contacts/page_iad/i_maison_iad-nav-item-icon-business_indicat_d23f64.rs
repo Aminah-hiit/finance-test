@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_maison_iad-nav-item-icon-business_indicat_d23f64</name>
+   <tag></tag>
+   <elementGuidId>6e046314-af17-4163-afe1-c2f842d63509</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='iad-goto-top']/div/div[2]/iad-content-body/iad-my-iad-project/ui-view/ui-view/iad-agent-production-project-summary/div/iad-nav/ul/li[6]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iad-nav-item-icon business_indication fa fa-suitcase</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>::item.class</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iad-goto-top&quot;)/div[@class=&quot;container-fluid&quot;]/div[2]/iad-content-body[@class=&quot;ng-scope&quot;]/iad-my-iad-project[@class=&quot;ng-scope ng-isolate-scope&quot;]/ui-view[@class=&quot;ng-scope&quot;]/ui-view[@class=&quot;ng-scope&quot;]/iad-agent-production-project-summary[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;iad-production-project-summary&quot;]/iad-nav[@class=&quot;ng-isolate-scope&quot;]/ul[@class=&quot;iad-nav&quot;]/li[@class=&quot;iad-nav-item ng-scope&quot;]/a[@class=&quot;iad-nav-item-link&quot;]/i[@class=&quot;iad-nav-item-icon business_indication fa fa-suitcase&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='iad-goto-top']/div/div[2]/iad-content-body/iad-my-iad-project/ui-view/ui-view/iad-agent-production-project-summary/div/iad-nav/ul/li[6]/a/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iad-nav/ul/li[6]/a/i</value>
+   </webElementXpaths>
+</WebElementEntity>

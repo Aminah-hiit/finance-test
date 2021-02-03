@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_arnoux-alexis(41,rue-des-hauts-paves,nantes,france44000)choisir-un-contact</name>
+   <tag></tag>
+   <elementGuidId>751c4da1-902d-490c-a577-973122dc3e21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>mat-form-field.contact-list.mat-form-field.ng-tns-c27-21.mat-primary.mat-form-field-type-mat-select.mat-form-field-appearance-legacy.mat-form-field-can-float.mat-form-field-has-label.mat-form-field-hide-placeholder.ng-valid.mat-form-field-should-float.ng-touched.ng-dirty > div.mat-form-field-wrapper > div.mat-form-field-flex > div.mat-form-field-infix</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-step-content-0-2']/form/iad-bi-partner/iad-bi-partner-list/iad-bi-chosen-partners/form/mat-card/div/div[3]/mat-form-field/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ARNOUX ALEXIS  (41, Rue DES HAUTS PAVES, NANTES, France 44000)Choisir un contact</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-0-2&quot;)/form[@class=&quot;ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/iad-bi-partner[@class=&quot;ng-star-inserted&quot;]/iad-bi-partner-list[1]/iad-bi-chosen-partners[1]/form[@class=&quot;ng-valid ng-touched ng-dirty&quot;]/mat-card[@class=&quot;chosen-partner mat-card ng-valid ng-star-inserted ng-touched ng-dirty&quot;]/div[@class=&quot;ng-valid ng-touched ng-dirty&quot;]/div[3]/mat-form-field[@class=&quot;contact-list mat-form-field ng-tns-c27-21 mat-primary mat-form-field-type-mat-select mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-valid mat-form-field-should-float ng-touched ng-dirty&quot;]/div[@class=&quot;mat-form-field-wrapper&quot;]/div[@class=&quot;mat-form-field-flex&quot;]/div[@class=&quot;mat-form-field-infix&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-step-content-0-2']/form/iad-bi-partner/iad-bi-partner-list/iad-bi-chosen-partners/form/mat-card/div/div[3]/mat-form-field/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rouen'])[1]/following::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YANN CASTEL COURTAGE (AVISOFI)'])[1]/following::div[9]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/mat-form-field/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

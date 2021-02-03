@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ct01-verifier-creation-iban-physique</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5438b59-64b5-4298-aed2-bc244e4218a1</testCaseGuid>
+</TestCaseEntity>

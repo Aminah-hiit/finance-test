@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Brouillon de factureMathias PYPE22 Alle_1bb4fe_1</name>
+   <tag></tag>
+   <elementGuidId>4b8802fa-9394-4131-af38-3dd8466596b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.iad-container-content.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Facture Prod001man'])[1]/following::div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iad-container-content ng-star-inserted</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayout</name>
+      <type>Main</type>
+      <value>column</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayoutgap</name>
+      <type>Main</type>
+      <value>20px</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-fx-layout</name>
+      <type>Main</type>
+      <value>column</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-fx-layout-gap</name>
+      <type>Main</type>
+      <value>20px</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Brouillon de factureMathias PYPE22 Allée Alphonse Karr51000 CHÂLONS-EN-CHAMPAGNEEmail : test@iadfrance.frTél : +33000002020I@D FranceService Gestion back office1 allée de la ferme de Varâtre77127 LieusaintCHÂLONS-EN-CHAMPAGNE, 22/01/2021Facture n°  Prod001manEn EurosMontant HTTaux TVAMontant TVAMontant TTCTotal Indication d'affaire – Banque6 900,00 €20,00 %1 380,00 €8 280,00 €Total Facture6 900,00 €20,00 %1 380,00 €8 280,00 €Net à payer TTC8 280,00 €Conditions de règlement : -  sous 30 jours à compter de la date de signature de l'acte authentique ; à partir du 31ème jour, en l'absence de paiement, le taux de pénalité exigé est égal à 3 fois le taux d'intérêt légal. -  Indemnité forfaitaire pour frais de recouvrement en cas de retard de paiement (40€). -  Pas d'escompte pour paiement anticipé -  membre d'une association agréée, le règlement par chèque et carte bancaire est acceptéMathias PYPE (2020) 22 Allée Alphonse Karr 51000 CHÂLONS-EN-CHAMPAGNERSAC REIMS N° 491383154 RCP : 127104506/762 - N° TVA intracommunautaire : FR25491383154 - SIRET : 49138315400037 1/2 Brouillon de factureDétail de votre factureType de commissionQtéPrix unitaire HTMontant HTTaux TVAMontant TVAMontant TTCIA - 2021.1438 / 20922 - Test TEST255 - YMANCI - 12 2020 - 11/12/202016 900,00 €6 900,00 €20,00 %1 380,00 €8 280,00 €Total Indication d'affaire – Banque6 900,00 €20,00 %1 380,00 €8 280,00 €Total en Euros 6 900,00 €20,00 %1 380,00 €8 280,00 €Net à payer TTC8 280,00 €Mathias PYPE (2020) 22 Allée Alphonse Karr 51000 CHÂLONS-EN-CHAMPAGNERSAC REIMS N° 491383154 RCP : 127104506/762 - N° TVA intracommunautaire : FR25491383154 - SIRET : 49138315400037 2/2 </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/iad-root[1]/iad-content[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;sidenav-container mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/div[@class=&quot;content-padding menu-opened notification-closed&quot;]/iad-preview-invoice-advisor[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;iad-container iad-theme-blue&quot;]/div[@class=&quot;iad-container-content-margin-title&quot;]/div[@class=&quot;iad-container-content&quot;]/div[1]/iad-invoice-template[1]/div[@class=&quot;iad-container-content ng-star-inserted&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facture Prod001man'])[1]/following::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accueil'])[2]/following::div[9]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iad-invoice-template/div</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_myiad-doublon-contact-retourc_5fc489</name>
+   <tag></tag>
+   <elementGuidId>6e85b7f8-40da-48b6-abcf-6da7873612ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#myiad-overlay-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='myiad-overlay-content']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>myiad-overlay-content</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>myiad-overlay-content container-fluid ng-scope</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Myiad - Doublon de contact  Retour
+  ×
+  Close
+
+IL SEMBLERAIT QUE LES INFORMATIONS SAISIES SOIENT SIMILAIRES À UN OU PLUSIEURS CONTACTS SUIVANTS. MERCI DE VÉRIFIER VOS INFORMATIONS. S'IL S'AGIT D'UN DOUBLON, VOUS AVEZ LA POSSIBILITÉ DE SÉLECTIONNER LE CONTACT À L'ORIGINE DU DOUBLON ET D'EN MODIFIER LA FICHE. SI LE CONTACT SÉLECTIONNÉ EST UN CONTACT ARCHIVÉ, CELA LE DÉSARCHIVERA.
+2258703Test Test74NC.01/12/2020 Prospect acquéreuradresseFR20114 FigariTestaNC.TélNC.MailNC.(x)NC.(x0)NC.NC.    Contact principal  Décisionnaire   2258690Testauto TestautoNC.25/11/2020 Prospect acquéreuradresseFRNC.TélNC.MailNC.(x)NC.(x0)NC.NC.    Contact principal  Décisionnaire   Annuler la création Continuer la création </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myiad-overlay-content&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='myiad-overlay-content']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='iad-content-scrollbar']/div/iad-agent-my-iad/div/div/iad-my-iad-overlay-content/iad-my-iad-overlay/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enregistrer le contact'])[1]/following::div[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annuler la création'])[1]/following::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iad-my-iad-overlay/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>
